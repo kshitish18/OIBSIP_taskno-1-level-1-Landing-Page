@@ -13,7 +13,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(/images/gradienta-gfJXeuIl5IM-unsplash.jpg)no-repeat;
+    background: url(gradienta-gfJXeuIl5IM-unsplash.jpg)no-repeat;
     background-size: cover;
     background-position: center;
 }
